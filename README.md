@@ -1,5 +1,9 @@
 # 우아한 인연들 Docs 저장소 입니다.
 
+ - [서비스 소개](https://github.com/wooyeonhan-inyeons/docs/tree/main/about)  
+ - [개발 팁 자료](https://github.com/wooyeonhan-inyeons/docs/tree/main/posts)  
+ - [스크럼 기록](https://github.com/wooyeonhan-inyeons/docs/tree/main/scrum)  
+
 ## 역할
 - `최용원` : 총괄 및 Devops 담당
 - `이도경` : Frontend 담당
