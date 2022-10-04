@@ -1,4 +1,4 @@
-# 우한 인연들 Docs 저장소 입니다.
+# 우연한 인연들 Docs 저장소 입니다.
 
  - [서비스 소개](https://github.com/wooyeonhan-inyeons/docs/tree/main/about)  
  - [개발 팁 자료](https://github.com/wooyeonhan-inyeons/docs/tree/main/posts)  
